@@ -1,2 +1,3 @@
 # NLP-with-Krish-Naik
-A complete Code of 
+
+In this repository, I have included all code examples discussed in Krish Naik Natural Language Processing Youtube course.
